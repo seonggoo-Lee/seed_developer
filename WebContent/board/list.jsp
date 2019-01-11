@@ -16,6 +16,7 @@
 			<td>제목</td>
 			<td>날짜</td>
 			<td>히트</td>
+			lkjlj;lk
 		</tr>
 		<c:forEach items="${list }" var="dto">
 		<tr>
