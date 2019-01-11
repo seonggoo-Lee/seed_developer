@@ -11,7 +11,7 @@
 		<form action="modify.do" method="post">
 			<input type="hidden" name="bId" value="${content_view.bId }">
 			<tr>
-				<td>번호</td>h
+				<td>번호</td>hdfdas
 				<td> ${content_view.bId }</td>
 			</tr>
 			<tr>
