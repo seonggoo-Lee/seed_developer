@@ -16,7 +16,7 @@
 				<td> <input type="text" name="bName" ></td>
 			</tr>
 			<tr>
-				<td>제목</td>
+				<td>제목</td>dasfjsdkl
 				<td> <input type="text" name="bTitle" ></td>
 			</tr>
 			<tr>

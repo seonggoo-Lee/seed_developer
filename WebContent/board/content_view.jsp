@@ -15,7 +15,7 @@
 				<td> ${content_view.bId }</td>
 			</tr>
 			<tr>
-				<td>히트</td>
+				<td>히트</td>asdklfas
 				<td> ${content_view.bHit }</td>
 			</tr>
 			<tr>
