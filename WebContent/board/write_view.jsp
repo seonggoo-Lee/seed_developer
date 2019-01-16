@@ -12,11 +12,11 @@
 			<input type="hidden" name="bId" >
 			<tr>
 				<td>이름</td>
-				hello1212
+			
 				<td> <input type="text" name="bName" ></td>
 			</tr>
 			<tr>
-				<td>제목</td>dasfjsdkl
+				<td>제목</td>
 				<td> <input type="text" name="bTitle" ></td>
 			</tr>
 			<tr>

@@ -16,7 +16,7 @@
 			<tr>
 				<td>번호</td>
 				<td> ${reply_view.bId }</td>
-				hello122
+				
 			</tr>
 			<tr>
 				<td>히트</td>
